@@ -1,0 +1,6 @@
+pyimgur
+praw
+halo
+wordcloud
+Pillow
+numpy
