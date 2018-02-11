@@ -56,5 +56,6 @@ I've included a modified version of the popular theme [Naut](https://github.com/
 
 This 'ere software is hacky as fuck. Use at your peril.
 I'd appreciate a mention if you do. But if you don't,
-I'm not going to lose sleep over it.
+I'm not going to lose sleep over it.  
+
 'Meh' - impshum on copyright
