@@ -49,3 +49,12 @@ Enter all your juicy details and set variables in config.py
 I've included a modified version of the popular theme [Naut](https://github.com/Axel--/Naut-for-reddit) that works nicely with the word cloud. Copy the contents of theme/styles.css over to the subreddit stylesheet and upload all the images in the theme folder. Take a look at the marvellous spangly [Live demo](https://www.reddit.com/r/recycledrobot/) if you like.
 
 ![Theme-Screenshot](https://i.imgur.com/lyBLFST.png)
+
+---
+
+### License Stuff
+
+This 'ere software is hacky as fuck. Use at your peril.
+I'd appreciate a mention if you do. But if you don't,
+I'm not going to lose sleep over it.
+'Meh' - impshum on copyright
